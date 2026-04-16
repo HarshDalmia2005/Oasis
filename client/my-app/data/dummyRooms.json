@@ -1,0 +1,22 @@
+[
+    {
+        "roomName": "Project Alpha Sync",
+        "roomId": "ABX-1928",
+        "roomStatus": "Active"
+    },
+    {
+        "roomName": "Design Review",
+        "roomId": "DGN-4412",
+        "roomStatus": "Inactive"
+    },
+    {
+        "roomName": "Weekly Standup",
+        "roomId": "STD-9001",
+        "roomStatus": "Active"
+    },
+    {
+        "roomName": "Whiteboard Session A",
+        "roomId": "WBA-7734",
+        "roomStatus": "Maintenance"
+    }
+]
